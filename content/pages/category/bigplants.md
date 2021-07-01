@@ -1,5 +1,5 @@
 ---
-title: Jeu d'action
+title: d
 layout: category
 order: 1
 seo:
