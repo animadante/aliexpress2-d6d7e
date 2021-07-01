@@ -1,5 +1,5 @@
 ---
-title: Survie
+title: Jeu de survie
 layout: category
 order: 1
 seo:
