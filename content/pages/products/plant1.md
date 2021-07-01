@@ -11,7 +11,7 @@ featured: true
 order: 1
 category: content/pages/category/bigplants.md
 seo:
-  title: Nulla suscipit
+  title: Jeu Resident Evil 8 - Village sur Xbox-One/Series X
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
   extra:
     - name: 'og:type'
