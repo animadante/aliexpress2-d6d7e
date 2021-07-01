@@ -2,7 +2,7 @@
 layout: product
 id: '2'
 price: '59.99'
-title: Jeu Final Fantasy 15 - Village sur Xbox-One/Series X
+title: Jeu Final Fantasy 15 - Edition Royale PS4/PS5
 description: >-
   Resident Evil Village Xbox One Et Series X version digitale
 default_thumbnail_image: images/re8.webp
