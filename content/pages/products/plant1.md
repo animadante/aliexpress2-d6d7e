@@ -2,7 +2,7 @@
 layout: product
 id: '1'
 price: '59.99'
-title: Jeu Resident Evil 8 : Village sur Xbox-One/Series X
+title: Jeu Resident Evil 8 - Village sur Xbox-One/Series X
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
