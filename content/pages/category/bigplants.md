@@ -3,7 +3,7 @@ title: Jeu d'action
 layout: category
 order: 1
 seo:
-  title: Serious Sam
+  title: Serious Sam 4
   description: This is the store page
   extra:
     - name: 'og:type'
