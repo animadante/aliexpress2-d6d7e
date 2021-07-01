@@ -10,7 +10,7 @@ sections:
     content: >-
       # Aliexpress2 - Les meilleurs jeux aux meilleurs prix
 
-      Don't forget to add your Snipcart API key to the site's configuration to
+      ## Don't forget to add your Snipcart API key to the site's configuration to
       enable Cart actions.
     actions:
       - title: See all items
