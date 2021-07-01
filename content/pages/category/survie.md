@@ -26,6 +26,6 @@ seo:
     - name: 'twitter:description'
       value: This is the store page
     - name: 'twitter:image'
-      value: images/plant1-lg.jpg
+      value: images/re8.webp
       relativeUrl: true
 ---
