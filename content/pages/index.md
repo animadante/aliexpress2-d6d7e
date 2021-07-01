@@ -36,7 +36,7 @@ sections:
     title: Témoignages
     testimonials:
       - author:
-          name: John Dope
+          name: Gameblog
           location: 'Colorado, USA'
         text: C'est vraiment super ce que vous faites !
       - author:
