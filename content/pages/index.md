@@ -41,7 +41,7 @@ sections:
         text: C'est vraiment super ce que vous faites !
       - author:
           name: Gamekult
-          location: '?'
+          location: '?, France'
         text: C'est naze
   - type: promotion_section
     section_id: promotion_section
