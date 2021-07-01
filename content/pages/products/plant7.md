@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '7'
-price: '18.90'
+price: '9.99'
 title: 'Jeu The Witcher 3 : The Wild Hunt'
 description: 'Gros jeu de ouf, mais vraiment voila'
 default_thumbnail_image: images/thewitcher.webp
