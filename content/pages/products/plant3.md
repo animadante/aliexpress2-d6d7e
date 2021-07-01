@@ -3,7 +3,7 @@ layout: product
 id: '3'
 price: '39.99'
 title: Extension Warcraft - Shadowlands
-description: 'Nulla non pretium metus, vitae finibus lectus.'
+description: '8ème extension du MMORPG le plus populaire au monde'
 default_thumbnail_image: images/warcraft.jpg
 default_original_image: images/warcraft.jpg
 featured: true
