@@ -5,7 +5,9 @@ sections:
   - section_id: '10'
     title: Témoignages
     testimonials:
-      - text: 'Nous avons décidé de devenir partenaire '
+      - text: >-
+          Nous avons décidé de devenir partenaire d'Express jeux vidéo pour leur
+          sérieux et leur
         author:
           name: lorem-ipsum
           location: lorem-ipsum
