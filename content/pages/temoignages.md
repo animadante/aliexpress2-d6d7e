@@ -4,7 +4,11 @@ white_header: false
 sections:
   - section_id: '10'
     title: Témoignages
-    testimonials: []
+    testimonials:
+      - text: lorem-ipsum
+        author:
+          name: lorem-ipsum
+          location: lorem-ipsum
     type: testimonials_section
 seo:
   title: ''
