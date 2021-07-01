@@ -1,5 +1,5 @@
 ---
-title: Jeu de survie
+title: Jeu Massivement Multijoueur
 layout: category
 order: 7
 seo:
