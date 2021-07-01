@@ -12,7 +12,7 @@ featured: true
 order: 5
 category: content/pages/category/bigplants.md
 seo:
-  title: Vestibulum eget
+  title: Serious Sam 4
   description: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'
   extra:
     - name: 'og:type'
