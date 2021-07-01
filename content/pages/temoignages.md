@@ -7,7 +7,7 @@ sections:
     testimonials:
       - text: >-
           Nous avons décidé de devenir partenaire d'Express jeux vidéo pour leur
-          sérieux et leur professionnalisme
+          sérieux et leur professionnalisme.
         author:
           name: lorem-ipsum
           location: lorem-ipsum
