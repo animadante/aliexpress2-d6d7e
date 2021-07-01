@@ -1,5 +1,5 @@
 ---
-title: Jeu de survie
+title: Jeu de rôle japonais
 layout: category
 order: 1
 seo:
