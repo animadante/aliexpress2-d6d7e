@@ -7,12 +7,11 @@ sections:
     section_id: hero_section
     background_image: images/jv.jpg
     background_image_opacity: 65
-    content: >-
+    content: |-
       # Aliexpress2 - Les meilleurs jeux aux meilleurs prix
-
       ## Achetez beaucoup ça fait plaisir
     actions:
-      - title: See all items
+      - title: Voir nos produits
         url: /store
         arrow: true
         style: primary
