@@ -1,5 +1,5 @@
 ---
-title: Big plants
+title: Jeu d'action
 layout: category
 order: 1
 seo:
