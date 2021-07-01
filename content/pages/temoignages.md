@@ -3,7 +3,7 @@ title: Témoignages
 white_header: false
 sections:
   - section_id: '10'
-    title: lorem-ipsum
+    title: Nos témoignages
     testimonials: []
     type: testimonials_section
 seo:
