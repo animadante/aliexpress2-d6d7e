@@ -20,7 +20,7 @@
         },
         {
             "title": "Témoignages",
-            "url": "#",
+            "url": "#temoignages",
             "style": "primary",
             "arrow": false,
             "type": "action"
