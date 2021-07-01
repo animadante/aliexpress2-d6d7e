@@ -4,8 +4,8 @@ id: '3'
 price: '39.99'
 title: Extension Warcraft - Shadowlands
 description: 'Nulla non pretium metus, vitae finibus lectus.'
-default_thumbnail_image: images/plant3.jpg
-default_original_image: images/plant3-lg.jpg
+default_thumbnail_image: images/warcraft.jpg
+default_original_image: images/warcraft.jpg
 featured: true
 order: 3
 category: content/pages/category/MMO.md
