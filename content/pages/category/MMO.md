@@ -1,16 +1,16 @@
 ---
-title: Jeu en ligne Massivement Multijoueur 
+title: Jeu en ligne Massivement Multijoueur
 layout: category
 order: 7
 seo:
-  title: Jeu de survie
+  title: Jeu en ligne Massivement Multijoueur
   description: This is the store page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Jeu de survie
+      value: Jeu en ligne Massivement Multijoueur
       keyName: property
     - name: 'og:description'
       value: This is the store page
@@ -22,10 +22,10 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Jeu de survie
+      value: Jeu en ligne Massivement Multijoueur
     - name: 'twitter:description'
       value: This is the store page
     - name: 'twitter:image'
-      value: images/re8.webp
+      value: images/warcraft.jpg
       relativeUrl: true
 ---
