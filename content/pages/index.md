@@ -10,8 +10,7 @@ sections:
     content: >-
       # Aliexpress2 - Les meilleurs jeux aux meilleurs prix
 
-      ## Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      ## Achetez beaucoup ça fait plaisir
     actions:
       - title: See all items
         url: /store
