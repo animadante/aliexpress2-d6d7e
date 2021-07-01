@@ -12,7 +12,7 @@ order: 1
 category: content/pages/category/bigplants.md
 seo:
   title: Jeu Resident Evil 8 - Village sur Xbox-One/Series X
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  description: 'Resident Evil Village Xbox One Et Series X version digitale'
   extra:
     - name: 'og:type'
       value: website
