@@ -1,5 +1,5 @@
 ---
-title: Massivement Multijoueur
+title: MMO
 layout: category
 order: 7
 seo:
