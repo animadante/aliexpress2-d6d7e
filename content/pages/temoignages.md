@@ -13,7 +13,7 @@ sections:
           location: 'Paris, France'
       - text: J'adore la France
         author:
-          name: lorem-ipsum
+          name: 'IGN '
           location: lorem-ipsum
     type: testimonials_section
 seo:
