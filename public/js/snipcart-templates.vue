@@ -1,1 +1,1 @@
-<div hidden id="snipcart" data-api-key="__SNIPCART_API_KEY__"></div>
+<div hidden id="snipcart" data-api-key="MTRmMjBiZjMtMzQ3OC00MmMwLWIyZGMtM2UyMTQyOWJhM2Y3NjM3NjA3NDE0NTYzODYxMDA1"></div>
