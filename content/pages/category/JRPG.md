@@ -3,7 +3,7 @@ title: Jeu de rôle japonais
 layout: category
 order: 1
 seo:
-  title: Jeu de survie
+  title: Jeu de rôle japonais
   description: This is the store page
   extra:
     - name: 'og:type'
