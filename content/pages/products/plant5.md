@@ -4,8 +4,8 @@ id: '5'
 price: '220.00'
 title: Serious Sam 4
 description: >-
-  Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
-  volutpat massa dolor id purus.
+  Le dernier jeu délirant du plus délriant des studios de jeux vidéo Devolver
+  Digital
 default_thumbnail_image: images/plant5.jpg
 default_original_image: images/plant5-lg.jpg
 featured: true
