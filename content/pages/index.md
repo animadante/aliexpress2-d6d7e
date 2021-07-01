@@ -8,7 +8,7 @@ sections:
     background_image: images/jv.jpg
     background_image_opacity: 65
     content: |
-      # Express Jeux Vidéo- Les meilleurs jeux aux meilleurs prix
+      # Express Jeux Vidéo - Les meilleurs jeux aux meilleurs prix
 
       ## Achetez beaucoup ça fait plaisir
     actions:
