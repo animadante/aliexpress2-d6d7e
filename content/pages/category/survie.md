@@ -1,7 +1,7 @@
 ---
 title: Jeu de survie
 layout: category
-order: 
+order: 5
 seo:
   title: Jeu de survie
   description: This is the store page
