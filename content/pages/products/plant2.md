@@ -8,7 +8,7 @@ description: >-
 default_thumbnail_image: images/ff15.webp
 default_original_image: images/ff15.webp
 featured: true
-order: 6
+order: 2
 category: content/pages/category/JRPG.md
 seo:
   title: Jeu Final Fantasy 15 - Edition Royale PS4/PS5
