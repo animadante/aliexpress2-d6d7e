@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:description'
       value: 'Nulla non pretium metus, vitae finibus lectus'
     - name: 'twitter:image'
-      value: images/plant3-lg.jpg
+      value: images/warcraft.jpg
       relativeUrl: true
 ---
 
