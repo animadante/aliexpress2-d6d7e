@@ -1,5 +1,5 @@
 ---
-title: Jeu Massivement Multijoueur 
+title: Jeu en ligne Massivement Multijoueur 
 layout: category
 order: 7
 seo:
