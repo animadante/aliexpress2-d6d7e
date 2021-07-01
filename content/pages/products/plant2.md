@@ -9,7 +9,7 @@ default_thumbnail_image: images/ff15.webp
 default_original_image: images/ff15.webp
 featured: true
 order: 1
-category: content/pages/category/survie.md
+category: content/pages/category/JRPG.md
 seo:
   title: Jeu Final Fantasy 15 - Edition Royale PS4/PS5
   description: 'Jeu Final Fantasy 15 - Edition Royale PS4/PS5'
