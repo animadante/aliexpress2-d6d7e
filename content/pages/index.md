@@ -8,7 +8,7 @@ sections:
     background_image: images/jv.jpg
     background_image_opacity: 65
     content: >-
-      # Real, beautiful plants right to your door
+      # Aliexpress2 - Les meilleurs jeux aux meilleurs prix
 
       Don't forget to add your Snipcart API key to the site's configuration to
       enable Cart actions.
