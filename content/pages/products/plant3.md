@@ -10,7 +10,7 @@ featured: true
 order: 3
 category: content/pages/category/MMO.md
 seo:
-  title: Curabitur eu tempor
+  title: Extension Warcraft - Shadowlands
   description: 'Nulla non pretium metus, vitae finibus lectus'
   extra:
     - name: 'og:type'
