@@ -10,7 +10,7 @@ sections:
           sérieux et leur professionnalisme.
         author:
           name: Micromania & Zing
-          location: lorem-ipsum
+          location: 'Paris, France'
     type: testimonials_section
 seo:
   title: ''
