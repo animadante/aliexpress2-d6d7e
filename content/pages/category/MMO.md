@@ -3,7 +3,7 @@ title: MMO
 layout: category
 order: 7
 seo:
-  title: Jeu en ligne Massivement Multijoueur
+  title: Warcraft Shaddowlands
   description: This is the store page
   extra:
     - name: 'og:type'
