@@ -4,7 +4,7 @@ id: '2'
 price: '59.99'
 title: Jeu Final Fantasy 15 - Edition Royale PS4/PS5
 description: >-
-  Resident Evil Village Xbox One Et Series X version digitale
+  Final Fantasy 15 - l'ultime épisode connonique d
 default_thumbnail_image: images/re8.webp
 default_original_image: images/re8.webp
 featured: true
