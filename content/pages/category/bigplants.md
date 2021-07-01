@@ -27,5 +27,5 @@ seo:
     - name: 'twitter:image'
       value: images/plant1-lg.jpg
       relativeUrl: true
-title: Jeu d'aventure
+title: Jeu d'action
 ---
