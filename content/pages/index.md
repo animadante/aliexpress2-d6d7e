@@ -37,7 +37,7 @@ sections:
     testimonials:
       - author:
           name: Gameblog
-          location: 'Colorado, USA'
+          location: 'Montreuil, Paris'
         text: C'est vraiment super ce que vous faites !
       - author:
           name: Major Payne
