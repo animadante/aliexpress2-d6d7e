@@ -2,7 +2,7 @@
 layout: product
 id: '7'
 price: '18.90'
-title: Sed consectetur
+title: 'Jeu The Witcher 3 : The Wild Hunt'
 description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/thewitcher.webp
 default_original_image: images/nervous-sun.webp
