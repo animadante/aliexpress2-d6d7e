@@ -14,7 +14,7 @@ sections:
       - text: J'adore la France
         author:
           name: IGN United States
-          location: lorem-ipsum
+          location: USA
     type: testimonials_section
 seo:
   title: ''
