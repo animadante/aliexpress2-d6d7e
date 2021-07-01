@@ -24,7 +24,7 @@ seo:
       value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
       keyName: property
     - name: 'og:image'
-      value: images/plant1-lg.jpg
+      value: images/ff15.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -34,7 +34,7 @@ seo:
     - name: 'twitter:description'
       value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
     - name: 'twitter:image'
-      value: images/plant1-lg.jpg
+      value: images/ff15.jpg
       relativeUrl: true
 ---
 
