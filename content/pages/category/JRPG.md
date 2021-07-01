@@ -1,7 +1,7 @@
 ---
 title: Jeu de rôle japonais
 layout: category
-order: 1
+order: 2
 seo:
   title: Jeu de rôle japonais
   description: This is the store page
