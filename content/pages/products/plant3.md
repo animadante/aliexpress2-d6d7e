@@ -11,7 +11,7 @@ order: 3
 category: content/pages/category/MMO.md
 seo:
   title: Extension Warcraft - Shadowlands
-  description: 'Nulla non pretium metus, vitae finibus lectus'
+  description: '8ème extension du MMORPG le plus populaire au monde'
   extra:
     - name: 'og:type'
       value: website
