@@ -5,7 +5,7 @@ sections:
   - section_id: '10'
     title: Témoignages
     testimonials:
-      - text: lorem-ipsum
+      - text: 'Nous avons décidé de devenir partenaire '
         author:
           name: lorem-ipsum
           location: lorem-ipsum
