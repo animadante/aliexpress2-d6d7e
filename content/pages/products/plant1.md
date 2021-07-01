@@ -8,7 +8,7 @@ description: >-
 default_thumbnail_image: images/re8.webp
 default_original_image: images/re8.webp
 featured: true
-order: 5
+order: 1
 category: content/pages/category/survie.md
 seo:
   title: Jeu Resident Evil 8 - Village sur Xbox-One/Series X
