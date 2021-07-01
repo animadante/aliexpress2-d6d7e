@@ -7,7 +7,7 @@ description: >-
   Le dernier jeu délirant du plus délriant des studios de jeux vidéo Devolver
   Digital
 default_thumbnail_image: images/serious.jpg
-default_original_image: images/plant5-lg.jpg
+default_original_image: images/important-pineapple.jpg
 featured: true
 order: 5
 category: content/pages/category/bigplants.md
