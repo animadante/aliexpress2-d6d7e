@@ -6,7 +6,7 @@ title: Jeu Resident Evil 8 - Village sur Xbox-One/Series X
 description: >-
   Resident Evil Village Xbox One Et Series X version digitale
 default_thumbnail_image: images/re8.webp
-default_original_image: images/plant1-lg.jpg
+default_original_image: images/re8.webp
 featured: true
 order: 1
 category: content/pages/category/bigplants.md
