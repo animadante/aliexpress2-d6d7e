@@ -12,7 +12,7 @@ order: 1
 category: content/pages/category/survie.md
 seo:
   title: Jeu Final Fantasy 15 - Edition Royale PS4/PS5
-  description: 'Resident Evil Village Xbox One Et Series X version digitale'
+  description: 'Jeu Final Fantasy 15 - Edition Royale PS4/PS5'
   extra:
     - name: 'og:type'
       value: website
