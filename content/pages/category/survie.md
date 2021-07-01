@@ -22,7 +22,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Big plants
+      value: Jeu de survie
     - name: 'twitter:description'
       value: This is the store page
     - name: 'twitter:image'
