@@ -3,7 +3,7 @@ title: Jeu de survie
 layout: category
 order: 1
 seo:
-  title: Big plants
+  title: Jeu de survie
   description: This is the store page
   extra:
     - name: 'og:type'
