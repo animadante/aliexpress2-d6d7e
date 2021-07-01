@@ -4,8 +4,8 @@ id: '3'
 price: '39.99'
 title: Extension Warcraft - Shadowlands
 description: '8ème extension du MMORPG le plus populaire au monde'
-default_thumbnail_image: images/warcraft.png
-default_original_image: images/warcraft.png
+default_thumbnail_image: images/warcraft.jpg
+default_original_image: images/warcraft.jpg
 featured: true
 order: 3
 category: content/pages/category/MMO.md
@@ -23,7 +23,7 @@ seo:
       value: 'Nulla non pretium metus, vitae finibus lectus'
       keyName: property
     - name: 'og:image'
-      value: images/warcraft.png
+      value: images/warcraft.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:description'
       value: 'Nulla non pretium metus, vitae finibus lectus'
     - name: 'twitter:image'
-      value: images/warcraft.png
+      value: images/warcraft.jpg
       relativeUrl: true
 ---
 
