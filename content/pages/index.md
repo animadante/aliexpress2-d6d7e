@@ -40,7 +40,7 @@ sections:
           location: 'Montreuil, Paris'
         text: C'est vraiment super ce que vous faites !
       - author:
-          name: Major Payne
+          name: Gamekult
           location: 'VA, USA'
         text: C'est naze
   - type: promotion_section
