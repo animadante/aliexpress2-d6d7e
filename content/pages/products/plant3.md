@@ -23,7 +23,7 @@ seo:
       value: 'Nulla non pretium metus, vitae finibus lectus'
       keyName: property
     - name: 'og:image'
-      value: images/plant3-lg.jpg
+      value: images/warcraft.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
