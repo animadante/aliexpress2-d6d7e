@@ -16,7 +16,7 @@ seo:
       value: This is the store page
       keyName: property
     - name: 'og:image'
-      value: images/re8.webp
+      value: images/ff15.webp
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
