@@ -11,7 +11,7 @@ sections:
         author:
           name: Micromania & Zing
           location: 'Paris, France'
-      - text: lorem-ipsum
+      - text: J'adore la France
         author:
           name: lorem-ipsum
           location: lorem-ipsum
