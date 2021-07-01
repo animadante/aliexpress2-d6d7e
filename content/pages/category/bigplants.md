@@ -3,7 +3,7 @@ title: Jeu d'action
 layout: category
 order: 1
 seo:
-  title: Big plants
+  title: Serious Sam
   description: This is the store page
   extra:
     - name: 'og:type'
