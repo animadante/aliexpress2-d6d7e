@@ -5,8 +5,8 @@ price: '59.99'
 title: Jeu Final Fantasy 15 - Edition Royale PS4/PS5
 description: >-
   Il fait partie de la compilation Fabula Nova Crystallis Final Fantasy aux côtés de Final Fantasy XIII et de Final Fantasy Type-0. Toutefois, son récit est original et n’entretient aucun lien avec les autres titres de la série. Il est développé par une équipe de créateurs menée sous la direction de Tetsuya Nomura, puis Hajime Tabata, et propose une histoire orientée vers le réalisme à destination d'une audience adulte3. 
-default_thumbnail_image: images/re8.webp
-default_original_image: images/re8.webp
+default_thumbnail_image: images/ff15.webp
+default_original_image: images/ff15.webp
 featured: true
 order: 1
 category: content/pages/category/survie.md
