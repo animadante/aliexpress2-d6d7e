@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '5'
-price: '220.00'
+price: '27.99'
 title: Serious Sam 4
 description: >-
   Le dernier jeu délirant du plus délriant des studios de jeux vidéo Devolver
