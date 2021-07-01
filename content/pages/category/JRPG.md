@@ -40,4 +40,4 @@ seo:
 
 # Nulla suscipit
 
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.
+Il fait partie de la compilation Fabula Nova Crystallis Final Fantasy aux côtés de Final Fantasy XIII et de Final Fantasy Type-0. Toutefois, son récit est original et n’entretient aucun lien avec les autres titres de la série. Il est développé par une équipe de créateurs menée sous la direction de Tetsuya Nomura, puis Hajime Tabata, et propose une histoire orientée vers le réalisme à destination d'une audience adulte3. 
